@@ -35,5 +35,3 @@
 #### 📫 联系
 
 提 [Issue](https://github.com/Gnayiel/faxuanyun-legal-exam-assistant/issues) 或到 [Discussions](https://github.com/Gnayiel/faxuanyun-legal-exam-assistant/discussions) 最快。
-
-<sub>“能自动化的，就别手动做第二遍。”</sub>
